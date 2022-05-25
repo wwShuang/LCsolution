@@ -1,0 +1,2 @@
+# LCsolution
+mainly leetcode solutions
